@@ -43,22 +43,22 @@
 
         f_ctrl {
             bindings = <&mt LCTRL F>;
-            key-positions = <13>;
+            key-positions = <13 12>;
         };
 
         j_ctrl {
             bindings = <&mt LCTRL J>;
-            key-positions = <16>;
+            key-positions = <16 17>;
         };
 
         d_lshift {
             bindings = <&mt LSHFT D>;
-            key-positions = <12>;
+            key-positions = <12 13>;
         };
 
         k_rhisft {
             bindings = <&mt RSHIFT K>;
-            key-positions = <17>;
+            key-positions = <17 16>;
         };
 
         hml_tab {
